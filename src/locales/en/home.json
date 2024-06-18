@@ -1,0 +1,12 @@
+{
+  "HomePage": {
+    "meta_title": "Home page",
+    "title": "Hello World!",
+    "description": "As one of the leading puzzle game companies in Vietnam, Sonat always tries our best to bring quality products, great gaming experiences and spread joy to all over the world.",
+    "title_dynamic": "Hello {username}!",
+    "message_plural": "You have {count, plural, =0 {no followers yet} =1 {one follower} other {# followers}}.",
+    "message_ordinal": "It's your {year, selectordinal, one {#st} two {#nd} few {#rd} other {#th}} birthday!",
+    "message_enum": "{gender, select, female {She is} male {He is} other {They are}} online",
+    "message_markup": "This is <bold>bold</bold>"
+  }
+}

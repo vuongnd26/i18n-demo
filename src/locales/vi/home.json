@@ -1,0 +1,12 @@
+{
+  "HomePage": {
+    "meta_title": "Trang chủ",
+    "title": "Hello World!",
+    "description": "Là một trong những công ty phát triển game giải đố hàng đầu Việt Nam, Sonat luôn nỗ lực hết sức để mang đến những sản phẩm chất lượng cùng những trải nghiệm chơi game tuyệt vời, lan tỏa niềm vui đến khắp nơi trên Thế Giới.",
+    "title_dynamic": "Xin chào {username}!",
+    "message_plural": "Bạn có {count, plural, =0 {0 người theo dõi} =1 {one người theo dõi} other {# người theo dõi}}.",
+    "message_ordinal": "Hôm nay là sinh nhật thứ {year, selectordinal, one {nhất} two {hai} three {ba} other {#}} của bạn!",
+    "message_enum": "{gender, select, female {Cô ấy} male {Anh ấy} other {Họ}} đang hoạt động",
+    "message_markup": "Đây là <bold>in đậm</bold>"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "about": "About us",
+    "label": "Change language",
+    "locale": "{locale, select, vi {Vietnamese} other {English}}"
+  }
+}

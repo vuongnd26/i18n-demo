@@ -1,0 +1,8 @@
+{
+  "Navigation": {
+    "home": "Trang chủ",
+    "about": "Về chúng tôi",
+    "label": "Thay đổi ngôn ngữ",
+    "locale": "{locale, select, vi {Tiếng Việt} other {Tiếng Anh}}"
+  }
+}
